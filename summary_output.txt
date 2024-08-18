@@ -1,0 +1,1155 @@
+Here is a comprehensive summary of the text:
+
+**Company Information**
+
+* Company Name: Apple Inc.
+* Entity File Number: 001-36743
+* Entity Registrant Name: Apple Inc.
+* Entity Incorporation, State or Country Code: CA (California)
+* Entity Tax Identification Number: 94-2404110
+
+**Address and Contact Information**
+
+* Address: One Apple Park Way, Cupertino, CA 95014
+* City Area Code: 408
+* Local Phone Number: 996-1010
+
+**Reporting Status**
+
+* Entity Current Reporting Status: Yes
+* Entity Interactive Data Current: Yes
+* Entity Filer Category: Large Accelerated Filer
+* Entity Small Business: No
+* Entity Emerging Growth Company: No
+* Entity Shell Company: No
+
+**Security Information**
+
+* Common Stock, Shares Outstanding (in shares): 15,204,137
+* Trading Symbol: AAPL
+* Security Exchange Name: NASDAQ
+
+**Notes Due**
+
+The company has several notes due in the future:
+
+* 0.000% Notes due 2025
+* 0.875% Notes due 2025
+* 1.625% Notes due 2026
+* 2.000% Notes due 2027
+* 1.375% Notes due 2029
+* 3.050% Notes due 2029
+* 0.500% Notes due 2031
+* 3.600% Notes due 2042
+
+Each of these notes has a "No Trading Symbol Flag" set to true, indicating that they do not have a trading symbol associated with them.
+
+**Fiscal Year and Period**
+
+* Document Fiscal Year Focus: 2024
+* Document Fiscal Period Focus: Q3 (Third Quarter)
+
+I hope this summary is helpful! Let me know if you have any further questions.
+
+Here is a comprehensive summary of the provided SEC financial reports:
+
+**Company Overview**
+
+The company's financial performance is presented in two periods: 3 months ended June 29, 2024, and 9 months ended June 29, 2024. The company has not disclosed its fiscal year-end date.
+
+**Revenue and Gross Margin**
+
+* Net sales for the 3 months ended June 29, 2024, were $85,777 million, a 5% increase from $81,797 million in the same period last year.
+* Net sales for the 9 months ended June 29, 2024, were $296,105 million, a 1% increase from $293,787 million in the same period last year.
+* Gross margin for the 3 months ended June 29, 2024, was $39,678 million, an increase of 9% from $36,413 million in the same period last year.
+* Gross margin for the 9 months ended June 29, 2024, was $136,804 million, an increase of 6% from $128,721 million in the same period last year.
+
+**Operating Expenses**
+
+* Research and development expenses for the 3 months ended June 29, 2024, were $8,006 million, a 7% increase from $7,442 million in the same period last year.
+* Research and development expenses for the 9 months ended June 29, 2024, were $23,605 million, a 5% increase from $22,608 million in the same period last year.
+* Selling, general, and administrative expenses for the 3 months ended June 29, 2024, were $6,320 million, a 6% increase from $5,973 million in the same period last year.
+* Selling, general, and administrative expenses for the 9 months ended June 29, 2024, were $19,574 million, a 4% increase from $18,781 million in the same period last year.
+
+**Operating Income**
+
+* Operating income for the 3 months ended June 29, 2024, was $25,352 million, an increase of 10% from $22,998 million in the same period last year.
+* Operating income for the 9 months ended June 29, 2024, was $93,625 million, an increase of 7% from $87,332 million in the same period last year.
+
+**Net Income and Earnings Per Share**
+
+* Net income for the 3 months ended June 29, 2024, was $21,448 million, an increase of 8% from $19,881 million in the same period last year.
+* Net income for the 9 months ended June 29, 2024, was $79,000 million, an increase of 7% from $74,039 million in the same period last year.
+* Earnings per share (EPS) for the 3 months ended June 29, 2024, were $1.40, an increase of 10% from $1.27 in the same period last year.
+* EPS for the 9 months ended June 29, 2024, were $5.13, an increase of 10% from $4.69 in the same period last year.
+
+**Segment Information**
+
+The company has two segments: products and services. The products segment generated net sales of $61,564 million and $22,4908 million for the 3 months and 9 months ended June 29, 2024, respectively. The services segment generated net sales of $24,213 million and $71,197 million for the 3 months and 9 months ended June 29, 2024, respectively.
+
+Overall, the company's financial performance has been strong in both periods, with increases in revenue, gross margin, operating income, and net income.
+
+Here is a comprehensive summary of the provided SEC financial reports:
+
+**Net Income:**
+
+* For the 3 months ended June 29, 2024, net income was $21.448 million.
+* For the same period in 2023, net income was $19.881 million.
+* For the 9 months ended June 29, 2024, net income was $79.000 million.
+* For the same period in 2023, net income was $74.039 million.
+
+**Other Comprehensive Income (Loss):**
+
+* The company reported a change in foreign currency translation of -$73 million for the 3 months ended June 29, 2024, and -$385 million for the same period in 2023.
+* For the 9 months ended June 29, 2024, the change in foreign currency translation was -$87 million, compared to -$494 million for the same period in 2023.
+
+**Unrealized Gains/Losses on Derivative Instruments:**
+
+* The company reported a total change in unrealized gains/losses on derivative instruments of $319 million for the 3 months ended June 29, 2024.
+* For the same period in 2023, the total change was $612 million.
+* For the 9 months ended June 29, 2024, the total change was -$347 million, compared to -$2.346 billion for the same period in 2023.
+
+**Unrealized Gains/Losses on Marketable Debt Securities:**
+
+* The company reported a total change in unrealized gains/losses on marketable debt securities of $298 million for the 3 months ended June 29, 2024.
+* For the same period in 2023, the total change was -$282 million.
+* For the 9 months ended June 29, 2024, the total change was $3.470 billion, compared to $2.148 billion for the same period in 2023.
+
+**Total Comprehensive Income:**
+
+* The company reported a total comprehensive income of $21.992 million for the 3 months ended June 29, 2024.
+* For the same period in 2023, total comprehensive income was $19.826 million.
+* For the 9 months ended June 29, 2024, total comprehensive income was $82.036 million.
+* For the same period in 2023, total comprehensive income was $73.347 million.
+
+Overall, the company's net income and comprehensive income have increased over the past year, driven by growth in unrealized gains on marketable debt securities and a decrease in unrealized losses on derivative instruments.
+
+Here is a comprehensive summary of the provided financial reports:
+
+**Balance Sheet Summary**
+
+The company's balance sheet as of June 29, 2024, and September 30, 2023, shows the following key points:
+
+* **Total Assets**: $331.6 billion (June 29, 2024) vs. $352.6 billion (September 30, 2023)
+* **Cash and Cash Equivalents**: $25.565 billion (June 29, 2024) vs. $29.965 billion (September 30, 2023), a decrease of $4.4 billion
+* **Marketable Securities**: $36.236 billion (June 29, 2024) vs. $31.590 billion (September 30, 2023), an increase of $4.646 billion
+* **Accounts Receivable**: $22.795 billion (June 29, 2024) vs. $29.508 billion (September 30, 2023), a decrease of $6.713 billion
+* **Inventories**: $6.165 billion (June 29, 2024) vs. $6.331 billion (September 30, 2023), a decrease of $166 million
+* **Total Current Assets**: $125.435 billion (June 29, 2024) vs. $143.566 billion (September 30, 2023), a decrease of $18.131 billion
+
+**Liabilities Summary**
+
+The company's liabilities as of June 29, 2024, and September 30, 2023, show the following key points:
+
+* **Total Liabilities**: $264.9 billion (June 29, 2024) vs. $290.4 billion (September 30, 2023)
+* **Accounts Payable**: $47.574 billion (June 29, 2024) vs. $62.611 billion (September 30, 2023), a decrease of $15.037 billion
+* **Other Current Liabilities**: $60.889 billion (June 29, 2024) vs. $58.829 billion (September 30, 2023), an increase of $2.06 billion
+* **Term Debt**: $12.114 billion (June 29, 2024) vs. $9.822 billion (September 30, 2023), an increase of $2.292 billion
+
+**Shareholders' Equity Summary**
+
+The company's shareholders' equity as of June 29, 2024, and September 30, 2023, shows the following key points:
+
+* **Total Shareholders' Equity**: $66.708 billion (June 29, 2024) vs. $62.146 billion (September 30, 2023), an increase of $4.562 billion
+* **Common Stock and Additional Paid-in Capital**: $79.850 billion (June 29, 2024) vs. $73.812 billion (September 30, 2023), an increase of $6.038 billion
+
+Overall, the company's balance sheet shows a decrease in total assets and an increase in liabilities, resulting in a decrease in shareholders' equity. However, the company has increased its common stock and additional paid-in capital by $6.038 billion.
+
+Here is a comprehensive summary of the provided text:
+
+**Company Financial Position as of June 29, 2024**
+
+The company's common stock has a par value of $1e-05 per share (which is equivalent to $0.00001). The authorized number of shares remains unchanged at 50,400,000,000.
+
+As of the reporting date, the company has issued 15,222,259,000 shares of common stock and has an outstanding balance of 15,222,259,000 shares. This indicates that all issued shares are currently outstanding and not held in treasury or reserved for future issuance.
+
+**Comparison to Previous Period (September 30, 2023)**
+
+Compared to the previous reporting period (September 30, 2023), there is no change in the par value of common stock, authorized number of shares, or issued and outstanding shares.
+
+Here is a comprehensive summary of the provided SEC financial reports:
+
+**Company Overview**
+
+The company's stockholders' equity has been reported for various periods, from September 24, 2022 to June 29, 2024. The reports provide detailed information on the changes in the company's common stock and additional paid-in capital, retained earnings (or accumulated deficit), and accumulated other comprehensive income (loss).
+
+**Key Trends**
+
+1. **Common Stock and Additional Paid-In Capital**: The company has issued new shares of common stock, resulting in an increase in common stock and additional paid-in capital.
+2. **Retained Earnings (Accumulated Deficit)**: The company's retained earnings have fluctuated over the periods, with net income contributing to increases and dividends declared contributing to decreases.
+3. **Accumulated Other Comprehensive Income (Loss)**: The company has reported both gains and losses in accumulated other comprehensive income (loss), which is a component of stockholders' equity.
+
+**Notable Events**
+
+1. **Common Stock Repurchased**: In the period ending June 29, 2024, the company repurchased $70,000 worth of common stock.
+2. **Dividends Declared**: The company declared dividends in various periods, with the most recent dividend declared per share or RSU being $0.73.
+
+**Financial Performance**
+
+1. **Net Income**: The company reported net income in several periods, including $74,039 in the period ending July 1, 2023 and $79,000 in the period ending June 29, 2024.
+2. **Share-Based Compensation**: The company recognized share-based compensation expense in various periods, with the most recent amount being $9,088 in the period ending June 29, 2024.
+
+**Conclusion**
+
+The provided SEC financial reports provide a comprehensive overview of the company's stockholders' equity and its changes over time. The reports highlight key trends, notable events, and financial performance metrics that can be used to analyze the company's financial health and make informed investment decisions.
+
+Here is a comprehensive summary of the text:
+
+**Cash Flow Statement**
+
+The company's cash flow statement for the 9 months ended June 29, 2024 shows an increase in cash and cash equivalents from $24977 million to $26635 million.
+
+**Operating Activities**
+
+* Net income: $79000 million (up from $74039 million)
+* Adjustments to reconcile net income to cash generated by operating activities:
+	+ Depreciation and amortization: $8534 million (down from $8866 million)
+	+ Share-based compensation expense: $8830 million (up from $8208 million)
+	+ Other: -$1964 million (down from -$1651 million)
+* Changes in operating assets and liabilities:
+	+ Accounts receivable, net: $6697 million (down from $7609 million)
+	+ Vendor non-trade receivables: $11100 million (up from $13111 million)
+	+ Inventories: $41 million (up from -$2570 million)
+	+ Other current and non-current assets: -$5626 million (down from -$4863 million)
+	+ Accounts payable: -$15171 million (up from -$16790 million)
+	+ Other current and non-current liabilities: $2 million (down from $2986 million)
+* Cash generated by operating activities: $91443 million (up from $88945 million)
+
+**Investing Activities**
+
+* Purchases of marketable securities: -$38074 million (up from -$20956 million)
+* Proceeds from maturities of marketable securities: $39838 million (up from $27857 million)
+* Proceeds from sales of marketable securities: $7382 million (up from $3959 million)
+* Payments for acquisition of property, plant and equipment: -$6539 million (down from -$8796 million)
+* Other: -$1117 million (down from -$753 million)
+* Cash generated by investing activities: $1490 million (up from $1311 million)
+
+**Financing Activities**
+
+* Payments for taxes related to net share settlement of equity awards: -$5163 million (down from -$5119 million)
+* Payments for dividends and dividend equivalents: -$11430 million (down from -$11267 million)
+* Repurchases of common stock: -$69866 million (up from -$56547 million)
+* Proceeds from issuance of term debt, net: $0 million (down from $5228 million)
+* Repayments of term debt: -$7400 million (up from -$11151 million)
+* Repayments of commercial paper, net: -$2985 million (up from -$5971 million)
+* Other: -$191 million (down from -$508 million)
+* Cash used in financing activities: -$97035 million (down from -$85335 million)
+
+**Supplemental Disclosure**
+
+* Cash paid for income taxes, net: $19230 million (up from $7020 million)
+
+Here is a comprehensive summary of the text:
+
+**Accounting Policies and Financial Statement Presentation**
+
+The provided document outlines the accounting policies and presentation of Apple Inc.'s condensed consolidated financial statements for the 9 months ended June 29, 2024. The following key points are highlighted:
+
+1. **Basis of Presentation**: The condensed consolidated financial statements include the accounts of Apple Inc. and its wholly owned subsidiaries.
+2. **Management's Opinion**: In the opinion of management, the condensed consolidated financial statements reflect all necessary adjustments for fair financial statement presentation.
+3. **Use of Management Estimates**: The preparation of these financial statements requires the use of management estimates in conformity with U.S. generally accepted accounting principles (GAAP).
+4. **Annual Report Reference**: These condensed consolidated financial statements should be read in conjunction with Apple's annual consolidated financial statements and accompanying notes included in its Annual Report on Form 10-K for the fiscal year ended September 30, 2023.
+5. **Fiscal Year and Quarter Alignment**: Apple's fiscal year is a 52- or 53-week period ending on the last Saturday of September. An additional week is included in the first fiscal quarter every five or six years to realign the Company's fiscal quarters with calendar quarters.
+
+Overall, this document provides an overview of the accounting policies and presentation of Apple Inc.'s financial statements for the specified period.
+
+Here is a comprehensive summary of the text:
+
+**Revenue Summary**
+
+The company reported revenue for the 9 months ended June 29, 2024 as follows:
+
+* Total net sales: $296.1 billion
+* Breakdown by product/service:
+	+ iPhone: $154.9 billion (52% of total)
+	+ Mac: $22.2 billion (7% of total)
+	+ iPad: $19.7 billion (7% of total)
+	+ Wearables, Home and Accessories: $27.9 billion (9% of total)
+	+ Services: $71.2 billion (24% of total)
+
+**Deferred Revenue**
+
+The company had deferred revenue of:
+
+* $12.5 billion as of June 29, 2024
+* $12.1 billion as of September 30, 2023
+
+**Revenue Recognition**
+
+The company recognized revenue in the following periods that was previously included in deferred revenue:
+
+* $3.4 billion in the three months ended June 29, 2024 (previously deferred as of March 30, 2024)
+* $3.3 billion in the three months ended July 1, 2023 (previously deferred as of April 1, 2023)
+* $6.5 billion in the nine months ended June 29, 2024 (previously deferred as of September 30, 2023)
+* $7.0 billion in the nine months ended July 1, 2023 (previously deferred as of September 24, 2022)
+
+**Revenue Realization**
+
+The company expects to realize:
+
+* 64% of total deferred revenue within less than a year
+* 25% within one-to-two years
+* 9% within two-to-three years
+* 2% in greater than three years
+
+Here is a comprehensive summary of the text:
+
+**Earnings Per Share (EPS) Calculation**
+
+The company has provided a table showing the computation of basic and diluted earnings per share for the three- and nine-month periods ended June 29, 2024, and July 1, 2023.
+
+**Key Metrics:**
+
+* **Net Income:** The net income for the three months ended June 29, 2024 was $21.448 million, compared to $19.881 million for the same period in 2023. For the nine months ended June 29, 2024, net income was $79.000 million, compared to $74.039 million for the same period in 2023.
+* **Weighted-Average Basic Shares Outstanding:** The weighted-average basic shares outstanding for the three months ended June 29, 2024 were 15,287,521, compared to 15,697,614 for the same period in 2023. For the nine months ended June 29, 2024, the weighted-average basic shares outstanding were 15,401,047, compared to 15,792,497 for the same period in 2023.
+* **Effect of Dilutive Share-Based Awards:** The effect of dilutive share-based awards on the weighted-average diluted shares was 60,654 and 77,407 for the three months ended June 29, 2024 and July 1, 2023, respectively. For the nine months ended June 29, 2024, the effect was 62,128 and 66,766 for the same periods in 2023.
+* **Basic Earnings Per Share (EPS):** The basic EPS for the three months ended June 29, 2024 was $1.40, compared to $1.27 for the same period in 2023. For the nine months ended June 29, 2024, the basic EPS was $5.13, compared to $4.69 for the same period in 2023.
+* **Diluted Earnings Per Share (EPS):** The diluted EPS for the three months ended June 29, 2024 was $1.40, compared to $1.26 for the same period in 2023. For the nine months ended June 29, 2024, the diluted EPS was $5.11, compared to $4.67 for the same period in 2023.
+
+**Note:** Approximately 32 million restricted stock units (RSUs) were excluded from the computation of diluted earnings per share for the nine months ended July 1, 2023 because their effect would have been antidilutive.
+
+Here is a comprehensive summary of the text:
+
+**Financial Instruments**
+
+The company's financial instruments, including cash, cash equivalents, and marketable securities, are valued at $160.2 billion as of June 29, 2024, down from $173.8 billion as of September 30, 2023.
+
+* Cash and cash equivalents: $22.9 billion
+* Marketable securities:
+	+ Level 1 (quoted prices): $2.1 billion
+	+ Level 2 (model-driven valuations): $135.2 billion
+	+ Total marketable securities: $153.0 billion
+
+The company's marketable securities are categorized by type, including U.S. Treasury securities, U.S. agency securities, non-U.S. government securities, certificates of deposit and time deposits, commercial paper, corporate debt securities, municipal securities, and mortgage- and asset-backed securities.
+
+**Derivative Instruments**
+
+The company uses derivative instruments to hedge against foreign exchange and interest rate risk. As of June 29, 2024, the notional amounts of outstanding derivative instruments were:
+
+* Foreign exchange contracts: $162.7 million
+* Interest rate contracts: $13.9 million
+
+The company designates these instruments as either cash flow hedges or fair value hedges.
+
+**Hedged Items**
+
+As of June 29, 2024, the carrying amounts of hedged items in fair value hedges were:
+
+* Current and non-current marketable securities: $15.0 billion
+* Current and non-current term debt: $(13.1) billion
+
+**Trade Receivables**
+
+The company's trade receivables are primarily from third-party cellular network carriers, which accounted for 32% of total trade receivables as of June 29, 2024.
+
+**Vendor Non-Trade Receivables**
+
+The company has non-trade receivables from certain manufacturing vendors resulting from the sale of components to these vendors. As of June 29, 2024, two vendors individually represented 10% or more of total vendor non-trade receivables, accounting for 46% and 18%.
+
+Overall, the company's financial instruments and derivative instruments are used to manage risk and optimize returns on investment.
+
+Here is a comprehensive summary of the provided text:
+
+**Financial Statement Details**
+
+The financial statement details are presented for the 9 months ended June 29, 2024. The following key points can be derived from the information:
+
+1. **Property, Plant and Equipment (PP&E)**: As of June 29, 2024, the company's gross PP&E is $117,129 million.
+2. **Accumulated Depreciation**: By June 29, 2024, the accumulated depreciation on PP&E is $72,627 million.
+3. **Net Property, Plant and Equipment (PP&E)**: The net PP&E, which represents the total value of PP&E minus accumulated depreciation, is $44,502 million as of June 29, 2024.
+
+**Comparison to Previous Period**
+
+For comparison purposes, the same financial statement details are provided for September 30, 2023:
+
+1. **Gross Property, Plant and Equipment**: As of September 30, 2023, the company's gross PP&E was $114,599 million.
+2. **Accumulated Depreciation**: By September 30, 2023, the accumulated depreciation on PP&E was $70,884 million.
+3. **Net Property, Plant and Equipment (PP&E)**: The net PP&E as of September 30, 2023, is $43,715 million.
+
+Overall, the financial statement details indicate that the company's property, plant, and equipment have increased in value over the past year, with a corresponding increase in accumulated depreciation.
+
+Here is a comprehensive summary of the text:
+
+**Background**
+
+The company has been involved in an ongoing dispute with the European Commission regarding state aid provided by Ireland to the company. The issue dates back to 1991 and 2007 when Ireland provided tax opinions that affected the allocation of profits from two subsidiaries' Irish branches.
+
+**European Commission Decision (2016)**
+
+In August 2016, the European Commission announced its decision that Ireland had granted state aid to the company by providing these tax opinions. The commission ordered Ireland to calculate and recover additional taxes from the company for the period June 2003 through December 2014.
+
+**Appeals and Court Decisions**
+
+The company and Ireland appealed this decision to the General Court of the European Union, which annulled the Commission's decision on July 15, 2020. However, the Commission appealed this decision to the European Court of Justice (ECJ) in September 2020. A hearing was held on May 23, 2023, and a decision from the ECJ is expected in the fourth quarter of 2024.
+
+**Potential Impact**
+
+The company believes it would be eligible to claim a U.S. foreign tax credit for a portion of any incremental Irish corporate income taxes potentially due related to the State Aid Decision. This suggests that the company may have some protection against increased tax liabilities if the ECJ upholds the Commission's decision.
+
+Overall, this summary highlights the ongoing dispute between the company and the European Commission regarding state aid provided by Ireland, as well as the potential impact on the company's tax obligations.
+
+Here is a comprehensive summary of the text:
+
+**Debt Overview**
+
+As of June 29, 2024, the company has no debt outstanding. However, it had $3.0 billion in commercial paper outstanding as of September 30, 2023.
+
+**Commercial Paper Program**
+
+The company issues unsecured short-term promissory notes through a commercial paper program, which is used for general corporate purposes such as dividends and share repurchases. The following table summarizes the cash flows associated with the issuance and maturities of commercial paper:
+
+* For the nine months ended June 29, 2024:
+	+ Maturities 90 days or less: $2.985 billion in repayments
+	+ Maturities greater than 90 days: $0 (no repayments)
+	+ Total repayments: $2.985 billion
+* For the nine months ended July 1, 2023:
+	+ Maturities 90 days or less: $3.326 billion in repayments
+	+ Maturities greater than 90 days: $2.645 billion in repayments
+	+ Total repayments: $5.971 billion
+
+**Term Debt**
+
+As of June 29, 2024 and September 30, 2023, the company had outstanding fixed-rate notes with varying maturities for an aggregate carrying amount of:
+
+* $98.3 billion (June 29, 2024)
+* $105.1 billion (September 30, 2023)
+
+The fair value of these notes, based on Level 2 inputs, was:
+
+* $86.2 billion (June 29, 2024)
+* $90.8 billion (September 30, 2023)
+
+Here is a comprehensive summary of the text:
+
+**Share Repurchase Program**
+
+During the 9-month period ending June 29, 2024, the company repurchased **387 million shares** of its common stock for a total value of **$70.0 billion**.
+
+**Key Points:**
+
+* The share repurchases were made under the company's existing share repurchase programs.
+* These programs do not require the company to purchase a minimum number of shares.
+* Shares may be repurchased through various methods, including:
+	+ Privately negotiated transactions
+	+ Open market transactions
+	+ Plans complying with Rule 10b5-1 under the Securities Exchange Act of 1934 (the "Exchange Act")
+
+Overall, this summary highlights the company's significant share repurchase activity over the past 9 months, which has resulted in a substantial reduction in its outstanding shares.
+
+Here is a comprehensive summary of the text:
+
+**Share-Based Compensation**
+
+The company has provided information on its share-based compensation arrangements, specifically related to Restricted Stock Units (RSUs). The following key points are highlighted:
+
+* **RSU Activity**: As of June 29, 2024, there were 166.4 million RSUs outstanding, with a weighted-average aggregate fair value of $157.66 per unit.
+* **Grant and Vesting**: During the nine months ended June 29, 2024, the company granted 78.3 million new RSUs with a weighted-average aggregate fair value of $172.26 per unit. Additionally, 83.8 million RSUs vested during this period, resulting in a weighted-average aggregate fair value of $126.47 per unit.
+* **Cancellation**: The company canceled 8.3 million RSUs during the nine months ended June 29, 2024, with a weighted-average aggregate fair value of $137.85 per unit.
+* **Fair Value**: The fair value of RSUs vested during the three- and nine-month periods ended June 29, 2024 was $6.4 billion and $15.0 billion, respectively.
+
+**Share-Based Compensation Expense**
+
+The company has also provided information on its share-based compensation expense and related income tax benefit:
+
+* **Three Months Ended**: Share-based compensation expense for the three months ended June 29, 2024 was $2.9 billion, with an income tax benefit of $764 million.
+* **Nine Months Ended**: Share-based compensation expense for the nine months ended June 29, 2024 was $8.8 billion, with an income tax benefit of $2.7 billion.
+
+**Unrecognized Compensation Cost**
+
+As of June 29, 2024, the company has a total unrecognized compensation cost related to outstanding RSUs of $21.9 billion, which is expected to be recognized over a weighted-average period of 2.6 years.
+
+Here is a comprehensive summary of the text:
+
+**Contingencies Disclosure**
+
+The company has disclosed that it is subject to various legal proceedings and claims that have arisen in the ordinary course of business. However, management believes that there is no reasonable possibility that these contingencies will result in a material loss for the company.
+
+**Key Points:**
+
+* The company is involved in ongoing litigation and claims.
+* The outcome of these cases is uncertain.
+* Management does not believe that any potential losses from these cases are likely to be material (i.e., greater than $0.01 per share).
+
+Overall, this disclosure suggests that the company has a relatively low risk profile with respect to its legal proceedings and claims.
+
+Here is a comprehensive summary of the text:
+
+**Segment Information and Geographic Data**
+
+The company has provided segment information for its operations in various regions, including Americas, Europe, Greater China, Japan, and Rest of Asia Pacific. The data covers the three- and nine-month periods ended June 29, 2024, and July 1, 2023.
+
+**Key Highlights:**
+
+* **Americas:** Net sales increased by $2,295 million (6.5%) to $37,678 million in Q3 FY24 compared to $35,383 million in Q3 FY23. Operating income rose by $2,092 million (15.9%) to $15,209 million.
+* **Europe:** Net sales grew by $1,679 million (8.3%) to $21,884 million in Q3 FY24 compared to $20,205 million in Q3 FY23. Operating income increased by $1,175 million (14.7%) to $9,170 million.
+* **Greater China:** Net sales declined by $944 million (-6.0%) to $14,728 million in Q3 FY24 compared to $15,758 million in Q3 FY23. Operating income decreased by $645 million (-10.4%) to $5,562 million.
+* **Japan:** Net sales increased by $276 million (5.7%) to $5,097 million in Q3 FY24 compared to $4,821 million in Q3 FY23. Operating income rose by $101 million (4.1%) to $2,544 million.
+* **Rest of Asia Pacific:** Net sales grew by $760 million (13.6%) to $6,390 million in Q3 FY24 compared to $5,630 million in Q3 FY23. Operating income increased by $282 million (12.1%) to $2,610 million.
+
+**Reconciliation:**
+
+The company has provided a reconciliation of segment operating income to the Condensed Consolidated Statements of Operations for the three- and nine-month periods ended June 29, 2024, and July 1, 2023. The reconciliation shows that segment operating income was $35,095 million in Q3 FY24 compared to $32,090 million in Q3 FY23, an increase of $3,005 million (9.4%). For the nine-month period ended June 29, 2024, segment operating income was $122,889 million compared to $114,983 million in the same period last year, an increase of $7,906 million (6.9%).
+
+**Research and Development Expense:**
+
+The company's research and development expense decreased by $564 million (-8.1%) to $8,006 million in Q3 FY24 compared to $7,442 million in Q3 FY23.
+
+**Other Corporate Expenses:**
+
+The company's other corporate expenses, net increased by $87 million (5.3%) to $1,737 million in Q3 FY24 compared to $1,650 million in Q3 FY23.
+
+Overall, the company has reported strong revenue growth and improved operating income across various regions, driven by increasing demand for its products and services.
+
+Here is a comprehensive summary of the text:
+
+**Pay vs Performance Disclosure Report**
+
+This report provides financial data on the company's performance and executive compensation for two periods: 3 months ended June 29, 2024, and 9 months ended June 29, 2024. The comparison is made with the same periods in the previous year (July 1, 2023 to June 30, 2023).
+
+**Key Financial Metrics**
+
+* **Net Income**: 
+	+ For the 3 months ended June 29, 2024: $21,448 million
+	+ For the 9 months ended June 29, 2024: $79,000 million
+
+The report shows a significant increase in net income for both periods compared to the same periods in the previous year.
+
+Note that this summary only provides an overview of the financial data and does not include any information on executive compensation or other non-financial metrics.
+
+Here is a comprehensive summary of the text:
+
+**Insider Trading Arrangements**
+
+The company has disclosed insider trading arrangements for its Chief Executive Officer, Tim Cook. The arrangement was made to satisfy the affirmative defense conditions of Rule 10b5-1(c) under the Exchange Act.
+
+**Key Details of the Arrangement**
+
+* **Adoption Date**: May 24, 2024
+* **Arrangement Duration**: 730 days (approximately 2 years), expiring on May 24, 2026
+* **Purpose**: To satisfy the affirmative defense conditions of Rule 10b5-1(c) under the Exchange Act
+
+**Terms of the Arrangement**
+
+* The plan provides for the sale of shares vesting during the duration of the plan pursuant to certain equity awards granted to Mr. Cook.
+* Sales are subject to certain price limits.
+* Shares withheld by the Company to satisfy income tax withholding and remittance obligations are excluded from the plan.
+
+**Individual Involved**
+
+* **Name**: Tim Cook
+* **Title**: Chief Executive Officer
+
+Overall, this arrangement is intended to provide a structured approach for Mr. Cook's sale of shares in accordance with Rule 10b5-1(c) under the Exchange Act.
+
+Here is a comprehensive summary of the text:
+
+**Accounting Policies**
+
+The financial statements provided are condensed consolidated financial statements for Apple Inc. and its subsidiaries, covering the 9 months ended June 29, 2024. The statements reflect all necessary adjustments to ensure fair presentation, as determined by management.
+
+**Basis of Presentation and Preparation**
+
+The preparation of these financial statements requires the use of management estimates in accordance with U.S. Generally Accepted Accounting Principles (GAAP). These statements should be read in conjunction with Apple's annual consolidated financial statements for the fiscal year ended September 30, 2023.
+
+**Fiscal Period**
+
+Apple's fiscal year is a 52- or 53-week period ending on the last Saturday of September. The company's fiscal years 2024 and 2023 span 52 and 53 weeks, respectively. References to specific years, quarters, months, and periods refer to Apple's fiscal years ended in September.
+
+**Fair Value Measurements**
+
+The fair values of Apple's Level 2 financial instruments are measured using valuation techniques based on quoted market prices or model-driven valuations with significant inputs derived from observable market data. These instruments generally have counterparties with high credit ratings.
+
+Overall, the text provides an overview of the accounting policies and presentation of Apple's condensed consolidated financial statements for the 9 months ended June 29, 2024.
+
+Here is a comprehensive summary of the text:
+
+**Revenue Summary**
+
+The company's revenue for the 9 months ended June 29, 2024 was $296.1 billion, compared to $293.8 billion for the same period in 2023.
+
+**Product and Service Revenue Breakdown**
+
+The company's net sales are disaggregated by significant products and services as follows:
+
+* **iPhone**: Revenue from iPhone sales was $154.9 billion for the 9 months ended June 29, 2024, compared to $156.8 billion for the same period in 2023.
+* **Mac**: Revenue from Mac sales was $22.2 billion for the 9 months ended June 29, 2024, compared to $21.7 billion for the same period in 2023.
+* **iPad**: Revenue from iPad sales was $19.7 billion for the 9 months ended June 29, 2024, compared to $21.8 billion for the same period in 2023.
+* **Wearables, Home and Accessories**: Revenue from wearables, home, and accessories sales was $27.9 billion for the 9 months ended June 29, 2024, compared to $30.5 billion for the same period in 2023.
+* **Services**: Revenue from services (such as Apple Music, Apple TV+, etc.) was $71.2 billion for the 9 months ended June 29, 2024, compared to $62.8 billion for the same period in 2023.
+
+Overall, the company's revenue growth is relatively flat year-over-year, with some variation in sales of different products and services.
+
+Here is a comprehensive summary of the text:
+
+**Earnings Per Share (EPS) Calculation**
+
+The company has provided a table to calculate its basic and diluted earnings per share for the three- and nine-month periods ended June 29, 2024, and July 1, 2023.
+
+**Key Metrics:**
+
+* **Net Income:** The net income for the three months ended June 29, 2024 was $21.448 million, compared to $19.881 million in the same period last year. For the nine months ended June 29, 2024, the net income was $79.000 million, up from $74.039 million in the same period last year.
+* **Weighted-Average Basic Shares Outstanding:** The weighted-average basic shares outstanding for the three months ended June 29, 2024 were 15,287,521 thousand shares, compared to 15,697,614 thousand shares in the same period last year. For the nine months ended June 29, 2024, the weighted-average basic shares outstanding were 15,401,047 thousand shares, down from 15,792,497 thousand shares in the same period last year.
+* **Effect of Dilutive Share-Based Awards:** The effect of dilutive share-based awards for the three months ended June 29, 2024 was an increase of 60,654 thousand shares, compared to an increase of 77,407 thousand shares in the same period last year. For the nine months ended June 29, 2024, the effect of dilutive share-based awards was an increase of 62,128 thousand shares, down from 66,766 thousand shares in the same period last year.
+* **Weighted-Average Diluted Shares:** The weighted-average diluted shares for the three months ended June 29, 2024 were 15,348,175 thousand shares, compared to 15,775,021 thousand shares in the same period last year. For the nine months ended June 29, 2024, the weighted-average diluted shares were 15,463,175 thousand shares, down from 15,859,263 thousand shares in the same period last year.
+* **Basic and Diluted Earnings Per Share:** The basic earnings per share for the three months ended June 29, 2024 was $1.40, compared to $1.27 in the same period last year. For the nine months ended June 29, 2024, the basic earnings per share was $5.13, up from $4.69 in the same period last year. The diluted earnings per share for the three months ended June 29, 2024 was also $1.40, compared to $1.26 in the same period last year. For the nine months ended June 29, 2024, the diluted earnings per share was $5.11, down from $4.67 in the same period last year.
+
+Overall, the company's net income and basic and diluted earnings per share have increased compared to the same periods last year, indicating a positive trend in its financial performance.
+
+Here is a comprehensive summary of the text:
+
+**Financial Instruments**
+
+The company's financial instruments are presented in two tables: Cash, Cash Equivalents and Marketable Securities by Significant Investment Category and Non-Current Marketable Debt Securities by Contractual Maturity.
+
+**Cash, Cash Equivalents and Marketable Securities**
+
+As of June 29, 2024, the company had:
+
+* $22.9 billion in cash and cash equivalents
+* $160.2 billion in marketable securities (including $14.1 billion restricted from general use)
+	+ Level 1: $2.1 billion in money market funds and mutual funds
+	+ Level 2: $135.2 billion in U.S. Treasury securities, U.S. agency securities, non-U.S. government securities, certificates of deposit and time deposits, commercial paper, corporate debt securities, municipal securities, and mortgage- and asset-backed securities
+
+The company's marketable securities are valued using various techniques, including quoted market prices and model-driven valuations.
+
+**Non-Current Marketable Debt Securities**
+
+As of June 29, 2024, the fair value of the company's non-current marketable debt securities was $91.2 billion, with:
+
+* $64.2 billion due after 1 year through 5 years
+* $8.7 billion due after 5 years through 10 years
+* $18.4 billion due after 10 years
+
+**Derivative Instruments**
+
+As of June 29, 2024, the company had outstanding derivative instruments with notional amounts of:
+
+* $65.5 billion in foreign exchange contracts (designated as accounting hedges)
+* $13.9 billion in interest rate contracts (designated as accounting hedges)
+* $97.1 billion in foreign exchange contracts (not designated as accounting hedges)
+
+**Hedged Items**
+
+As of June 29, 2024, the carrying amounts of the company's hedged items in fair value hedges were:
+
+* $15.0 billion in current and non-current marketable securities
+* $(13.1) billion in current and non-current term debt
+
+Here is a comprehensive summary of the text:
+
+**Financial Statement Details**
+
+The provided financial statement details are for the 9 months ended June 29, 2024. The information includes the Company's condensed consolidated financial statements as of two specific dates: June 29, 2024 and September 30, 2023.
+
+**Property, Plant and Equipment (PP&E)**
+
+The PP&E section provides a snapshot of the Company's property, plant, and equipment assets as of the mentioned dates. The key points from this section are:
+
+* **Gross Property, Plant and Equipment**: This represents the total value of all property, plant, and equipment owned by the Company.
+	+ As of June 29, 2024: $117,129 million
+	+ As of September 30, 2023: $114,599 million
+* **Accumulated Depreciation**: This is the cumulative amount of depreciation expense recorded for all property, plant, and equipment assets over their useful lives.
+	+ As of June 29, 2024: $72,627 million
+	+ As of September 30, 2023: $70,884 million
+* **Total Property, Plant and Equipment, Net**: This represents the net value of property, plant, and equipment after deducting accumulated depreciation.
+	+ As of June 29, 2024: $44,502 million
+	+ As of September 30, 2023: $43,715 million
+
+Overall, these financial statement details provide insight into the Company's property, plant, and equipment assets as of two specific dates.
+
+Here is a comprehensive summary of the text:
+
+The company's debt disclosure report provides information on its cash flows associated with commercial paper issuance and maturities for two periods: the nine months ended June 29, 2024, and July 1, 2023.
+
+**Key Points:**
+
+* The company had no debt (i.e., zero) as of June 29, 2024.
+* For the nine months ended June 29, 2024:
+	+ The company repaid $2.985 billion in commercial paper with maturities of 90 days or less.
+	+ There were no repayments of commercial paper with maturities greater than 90 days.
+* For the nine months ended July 1, 2023:
+	+ The company repaid $5.971 billion in commercial paper, including $2.326 billion with maturities of 90 days or less and $2.645 billion with maturities greater than 90 days.
+
+**Overall:**
+
+The report indicates that the company had a significant amount of commercial paper outstanding as of July 1, 2023, but has since repaid most of it by June 29, 2024. The company's debt position appears to be relatively stable and manageable at this point in time.
+
+Here is a comprehensive summary of the text:
+
+**Share-Based Compensation**
+
+The company has provided information on its share-based compensation arrangements for the nine months ended June 29, 2024. The key points from this section are:
+
+* **Restricted Stock Unit (RSU) Activity**: The company granted 78,276 RSUs with a weighted-average aggregate fair value of $172.26 million during the period.
+* **RSU Vesting and Cancellation**: A total of 83,842 RSUs vested at an average fair value of $126.47 million, while 8,258 RSUs were canceled at an average fair value of $137.85 million.
+* **Balance as of June 29, 2024**: The company had a balance of 166,423 RSUs with an aggregate fair value of $35,052 million.
+
+**Share-Based Compensation Expense and Income Tax Benefit**
+
+The company has also provided information on the share-based compensation expense and related income tax benefit for the three- and nine-month periods ended June 29, 2024 and July 1, 2023. The key points from this section are:
+
+* **Share-Based Compensation Expense**: The company recognized a share-based compensation expense of $2,869 million in the three months ended June 29, 2024, and $8,830 million for the nine months ended June 29, 2024.
+* **Income Tax Benefit**: The company recorded an income tax benefit related to share-based compensation expense of $764 million in the three months ended June 29, 2024, and $2,662 million for the nine months ended June 29, 2024.
+
+Overall, this section provides information on the company's share-based compensation arrangements, including RSU activity, vesting, and cancellation, as well as the related expense and income tax benefit.
+
+Here is a comprehensive summary of the text:
+
+**Segment Information and Geographic Data**
+
+The company provides segment information and geographic data for the three- and nine-month periods ended June 29, 2024, compared to July 1, 2023.
+
+**Reportable Segments**
+
+The company operates in five reportable segments: Americas, Europe, Greater China, Japan, and Rest of Asia Pacific. The following table shows net sales and operating income for each segment:
+
+* **Americas**: Net sales increased by $2,295 million (6.5%) to $37,678 million, while operating income increased by $2,092 million (16.1%) to $15,209 million.
+* **Europe**: Net sales increased by $1,679 million (8.3%) to $21,884 million, while operating income increased by $1,175 million (14.7%) to $9,170 million.
+* **Greater China**: Net sales decreased by $944 million (6.0%) to $14,728 million, while operating income decreased by $645 million (10.4%) to $5,562 million.
+* **Japan**: Net sales increased by $276 million (5.7%) to $5,097 million, while operating income increased by $101 million (4.1%) to $2,544 million.
+* **Rest of Asia Pacific**: Net sales increased by $760 million (13.6%) to $6,390 million, while operating income increased by $282 million (12.1%) to $2,610 million.
+
+**Reconciliation of Segment Operating Income**
+
+The company reconciles segment operating income to the Condensed Consolidated Statements of Operations as follows:
+
+* **Segment operating income**: Increased by $3,105 million (9.7%) to $35,095 million for the three-month period and by $8,906 million (7.7%) to $122,889 million for the nine-month period.
+* **Research and development expense**: Decreased by $564 million (13.1%) to $8,006 million for the three-month period and by $997 million (11.2%) to $23,605 million for the nine-month period.
+* **Other corporate expenses, net**: Decreased by $87 million (5.2%) to $1,737 million for the three-month period and by $616 million (10.0%) to $5,659 million for the nine-month period.
+
+**Total Operating Income**
+
+The company's total operating income increased by $2,354 million (9.3%) to $25,352 million for the three-month period and by $6,293 million (7.1%) to $93,625 million for the nine-month period.
+
+Here is a comprehensive summary of the text:
+
+**Revenue Breakdown by Product and Service**
+
+The company's revenue is broken down into several product categories and services. The breakdown includes:
+
+1. **Net Sales**: Total revenue from all sources, which increased to $85,777 million in Q3 2024 compared to $81,797 million in Q3 2023.
+2. **iPhone**: Revenue from iPhone sales was not disclosed separately for Q3 2024 and Q3 2023.
+3. **Mac**: Revenue from Mac sales was also not disclosed separately for Q3 2024 and Q3 2023.
+4. **iPad**: Revenue from iPad sales was $7,009 million in Q3 2024 compared to $6,840 million in Q3 2023.
+5. **Wearables, Home and Accessories**: Revenue from wearables, home, and accessories was $7,162 million in Q3 2024 compared to $5,791 million in Q3 2023.
+6. **Services**: Revenue from services was $80,970 million in Q3 2024 compared to $82,840 million in Q3 2023.
+
+**9-Month Period Breakdown**
+
+The breakdown also includes revenue for the 9-month period ended June 29, 2024:
+
+1. **Net Sales**: Total revenue from all sources was $296,105 million.
+2. **iPhone**: Revenue from iPhone sales was not disclosed separately.
+3. **Mac**: Revenue from Mac sales was not disclosed separately.
+4. **iPad**: Revenue from iPad sales was $22,240 million.
+5. **Wearables, Home and Accessories**: Revenue from wearables, home, and accessories was $19,744 million.
+6. **Services**: Revenue from services was $71,197 million.
+
+Overall, the company's revenue has increased in both Q3 2024 and the 9-month period ended June 29, 2024 compared to the same periods last year.
+
+Here is a comprehensive summary of the text:
+
+**Revenue Recognition and Deferred Revenue**
+
+The company has provided additional information on its revenue recognition and deferred revenue for various periods.
+
+* **3 Months Ended June 29, 2024**: The company recognized $3.4 billion in revenue that was previously included in deferred revenue at the beginning of the period.
+* **9 Months Ended June 29, 2024**: The company recognized $6.5 billion in revenue that was previously included in deferred revenue at the beginning of the period.
+* **Total Deferred Revenue**:
+	+ As of June 29, 2024: $12.5 billion
+	+ As of July 1, 2023 (previous year-end): Not reported
+	+ As of September 30, 2023: $12.1 billion
+
+Overall, the company has provided insight into its revenue recognition and deferred revenue trends over various periods, highlighting the amount of revenue recognized from previously deferred amounts and the total balance of deferred revenue at specific points in time.
+
+Here is a comprehensive summary of the text:
+
+The company has provided information on its deferred revenue, which represents payments received from customers in advance of delivering goods or services. The data is presented as a series of tables showing the expected timing of realization for each year.
+
+**Key Findings:**
+
+1. As of June 29, 2024, the company has approximately $0.64 million (or 0.64%) of deferred revenue that is expected to be realized within the next 12 months.
+2. The majority of this deferred revenue ($0.25 million or 0.25%) is expected to be realized in 2025, with smaller amounts expected in 2026 ($0.09 million or 0.09%), 2027 ($0.02 million or 0.02%), and beyond.
+3. The company does not provide a total amount of deferred revenue, but rather presents the percentage of revenue that is expected to be realized within each time period.
+
+**Implications:**
+
+1. The data suggests that the company has a relatively small amount of deferred revenue compared to its overall revenue base.
+2. The majority of this deferred revenue is expected to be realized in 2025, which may indicate a significant increase in revenue for that year.
+3. The company's ability to realize deferred revenue within the expected timeframes will depend on various factors, including customer satisfaction and the delivery of goods or services.
+
+Overall, the data provides insight into the company's revenue recognition patterns and its expectations for future revenue growth.
+
+Here is a comprehensive summary of the text:
+
+**Earnings Per Share (EPS) Calculation**
+
+The company has provided the calculation for Basic and Diluted Earnings Per Share (EPS) for two periods: 3 months ended June 29, 2024, and 9 months ended June 29, 2024.
+
+**Numerator: Net Income**
+
+* For the 3 months ended June 29, 2024, net income was $21,448 million.
+* For the 9 months ended June 29, 2024, net income was $79,000 million.
+* For comparison, for the same periods in the previous year (July 1, 2023), net income was $19,881 million and $74,039 million, respectively.
+
+**Denominator: Weighted-Average Shares Outstanding**
+
+* For the 3 months ended June 29, 2024, weighted-average basic shares outstanding were 15,287,521.
+* For the 9 months ended June 29, 2024, weighted-average basic shares outstanding were 15,401,047.
+* For comparison, for the same periods in the previous year (July 1, 2023), weighted-average basic shares outstanding were 15,697,614 and 15,792,497, respectively.
+
+**Effect of Dilutive Share-Based Awards**
+
+* For the 3 months ended June 29, 2024, the effect of dilutive share-based awards was an additional 60,654 shares.
+* For the 9 months ended June 29, 2024, the effect of dilutive share-based awards was an additional 62,128 shares.
+* For comparison, for the same periods in the previous year (July 1, 2023), the effect of dilutive share-based awards was an additional 77,407 and 66,766 shares, respectively.
+
+**Weighted-Average Diluted Shares**
+
+* For the 3 months ended June 29, 2024, weighted-average diluted shares were 15,348,175.
+* For the 9 months ended June 29, 2024, weighted-average diluted shares were 15,463,175.
+* For comparison, for the same periods in the previous year (July 1, 2023), weighted-average diluted shares were 15,775,021 and 15,859,263, respectively.
+
+**Basic and Diluted Earnings Per Share**
+
+* For the 3 months ended June 29, 2024, basic EPS was $1.40 and diluted EPS was $1.40.
+* For the 9 months ended June 29, 2024, basic EPS was $5.13 and diluted EPS was $5.11.
+* For comparison, for the same periods in the previous year (July 1, 2023), basic EPS was $1.27 and $4.69, respectively, while diluted EPS were $1.26 and $4.67, respectively.
+
+Here is a comprehensive summary of the text:
+
+The report provides additional information about the company's earnings per share (EPS) calculation for the 9 months ended July 1, 2023. The key points from this report are:
+
+* There were no shares excluded from the computation of basic EPS.
+* Restricted stock units (RSUs) were excluded from the computation of diluted EPS because their effect would have been antidilutive. This means that if these RSUs had been included in the calculation, they would have reduced the EPS instead of increasing it.
+
+In other words, the company's management has determined that including the RSUs in the EPS calculation would not result in a more accurate representation of the company's earnings per share, and therefore excluded them from the computation.
+
+The provided text is a detailed breakdown of the company's financial instruments, specifically cash and marketable securities. Here is a comprehensive summary:
+
+**Cash and Cash Equivalents:**
+
+* As of June 29, 2024, the company has $25,565 in cash and cash equivalents.
+* This represents an increase from September 30, 2023, when the company had $29,965.
+
+**Marketable Securities:**
+
+* The company holds various types of marketable securities, including:
+	+ Equity securities (e.g., stocks)
+	+ Debt securities (e.g., bonds)
+	+ U.S. Treasury securities
+	+ U.S. agency securities
+	+ Non-U.S. government securities
+	+ Certificates of deposit and time deposits
+	+ Commercial paper
+	+ Corporate debt securities
+	+ Municipal securities
+	+ Mortgage- and asset-backed securities
+
+**Level 1, Level 2, and Level 3 Securities:**
+
+* The company classifies its marketable securities into three levels based on their valuation:
+	+ Level 1: These are securities that can be traded in an active market with prices readily available from reliable sources.
+	+ Level 2: These are securities that do not have a readily determinable fair value but can be valued using observable inputs.
+	+ Level 3: These are securities that require significant judgment to estimate their fair value.
+
+**Valuation of Marketable Securities:**
+
+* As of June 29, 2024, the company's marketable securities have a total fair value of $153,041.
+* This represents an increase from September 30, 2023, when the company's marketable securities had a total fair value of $162,099.
+
+**Breakdown by Type:**
+
+* Equity securities:
+	+ As of June 29, 2024, the company holds $2,210 in equity securities with a fair value of $2,210.
+	+ This represents an increase from September 30, 2023, when the company held $909 in equity securities with a fair value of $909.
+* Debt securities:
+	+ As of June 29, 2024, the company holds $127,965 in debt securities with a fair value of $127,965.
+	+ This represents an increase from September 30, 2023, when the company held $132,831 in debt securities with a fair value of $132,831.
+
+**Other Notable Items:**
+
+* The company has restricted cash and marketable securities totaling $14,100 as of June 29, 2024.
+* The company's commercial paper holdings have increased to $1,346 as of June 29, 2024, from $608 on September 30, 2023.
+
+Here is a comprehensive summary of the text:
+
+**Financial Instruments - Non-Current Marketable Debt Securities**
+
+The company has non-current marketable debt securities with a total fair value of $91,240 million as of June 29, 2024. These securities are categorized by their contractual maturity dates.
+
+**Breakdown by Maturity Date:**
+
+1. **Due after 1 year through 5 years:** The fair value of these securities is $64,209 million.
+2. **Due after 5 years through 10 years:** The fair value of these securities is $8,660 million.
+3. **Due after 10 years:** The fair value of these securities is $18,371 million.
+
+**Total Fair Value:**
+
+The total fair value of all non-current marketable debt securities held by the company as of June 29, 2024, is $91,240 million.
+
+Here is a comprehensive summary of the text:
+
+**Financial Instruments - Additional Information**
+
+The report provides additional information on the company's financial instruments, specifically regarding credit concentration risk and foreign currency exposure.
+
+**Credit Concentration Risk**
+
+* The company has identified two vendors that individually represent 10% or more of total vendor non-trade receivables.
+	+ Vendor one: concentration risk percentage is 0.46 (9 months ended) to 0.48 (12 months ended).
+	+ Vendor two: concentration risk percentage is 0.18 (9 months ended) to 0.23 (12 months ended).
+* The company has a credit concentration risk of 0.32% for trade receivables from cellular network carriers.
+
+**Foreign Currency Exposure**
+
+* The company hedges its foreign currency exposure associated with revenue and inventory purchases.
+	+ Maximum length of time over which the company is hedging its exposure: 12 months (9 months ended) to no limit mentioned (12 months ended).
+* The company also hedges its foreign currency exposure associated with term debt.
+	+ Maximum length of time over which the company is hedging its exposure: 18 years.
+
+Overall, the report highlights the company's efforts to manage credit concentration risk and foreign currency exposure through hedging activities.
+
+Here is a comprehensive summary of the text:
+
+The company has reported its notional amounts for derivative instruments as of June 29, 2024 and September 30, 2023. The report breaks down the derivatives into three categories: (1) Derivatives designated as accounting hedges, (2) Derivatives not designated as accounting hedges.
+
+**Derivatives Designated as Accounting Hedges**
+
+* Foreign exchange contracts:
+	+ Notional amount as of June 29, 2024: $65,542 million
+	+ Notional amount as of September 30, 2023: $74,730 million
+* Interest rate contracts:
+	+ Notional amount as of June 29, 2024: $13,875 million
+	+ Notional amount as of September 30, 2023: $19,375 million
+
+**Derivatives Not Designated as Accounting Hedges**
+
+* Foreign exchange contracts:
+	+ Notional amount as of June 29, 2024: $97,136 million
+	+ Notional amount as of September 30, 2023: $104,777 million
+
+Overall, the company's notional amounts for derivative instruments have decreased slightly from September 30, 2023 to June 29, 2024. The foreign exchange contracts designated as accounting hedges account for a significant portion of the total notional amount, while the interest rate contracts designated as accounting hedges are relatively smaller in comparison.
+
+Here is a comprehensive summary of the text:
+
+**Derivative Instruments and Hedging Activities**
+
+The company has designated certain derivative instruments as fair value hedges, which are used to manage exposure to changes in market values. The following information provides details on these hedged items:
+
+* **Hedged Marketable Securities:**
+	+ As of June 29, 2024, the carrying amount of hedged marketable securities is $15,007.
+	+ As of September 30, 2023, the carrying amount of hedged marketable securities was $14,433.
+	+ The hedged items are classified as "Marketable securities" on the statement of financial position.
+* **Hedged Term Debt:**
+	+ As of June 29, 2024, the carrying amount of hedged term debt is -$13,096 (i.e., a liability).
+	+ As of September 30, 2023, the carrying amount of hedged term debt was -$18,247.
+	+ The hedged items are classified as "Term debt" on the statement of financial position.
+
+Overall, the company has used derivative instruments to hedge its exposure to changes in market values related to both marketable securities and term debt.
+
+Here is a comprehensive summary of the text:
+
+**Property, Plant and Equipment (PP&E) Summary**
+
+The company's PP&E has been reported as follows:
+
+* **Gross Property, Plant and Equipment**: The total value of property, plant, and equipment owned by the company increased from $114.599 million at September 30, 2023 to $117.129 million at June 29, 2024.
+* **Accumulated Depreciation**: The accumulated depreciation on PP&E decreased from $70.884 million at September 30, 2023 to $72.627 million at June 29, 2024.
+* **Total Property, Plant and Equipment, Net**: As a result of the increase in gross PP&E and decrease in accumulated depreciation, the net value of PP&E increased from $43.715 million at September 30, 2023 to $44.502 million at June 29, 2024.
+
+Overall, this suggests that the company has invested in new property, plant, and equipment during the period, resulting in an increase in its total PP&E value.
+
+Here is a comprehensive summary of the text:
+
+The company has disclosed additional information regarding income taxes. Specifically, it mentions two unfavorable events:
+
+1. **Unfavorable investigation outcome**: On August 30, 2016, an investigation by the European Commission resulted in an unfavorable outcome related to EU State Aid rules.
+2. **Tax contingency**: The company has a tax contingency related to this event, which affects two subsidiaries.
+
+In summary, the company is facing potential tax liabilities or adjustments due to an unfavorable ruling from the European Commission, and it has identified two subsidiaries that are impacted by this issue.
+
+Here is a comprehensive summary of the text:
+
+**Debt Information**
+
+The company has provided additional information about its debt instruments as of June 29, 2024 and September 30, 2023.
+
+**Commercial Paper**
+
+* As of June 29, 2024, the company had $2,994 in commercial paper outstanding.
+* As of September 30, 2023, the company had $5,985 in commercial paper outstanding.
+* The company also reported that it had $3,000 in commercial paper outstanding as of June 29, 2024 (this may be a separate or additional amount).
+
+**Fixed-Rate Notes**
+
+* As of June 29, 2024, the aggregate carrying amount of fixed-rate notes was $98,300.
+* As of September 30, 2023, the aggregate carrying amount of fixed-rate notes was $105,100.
+
+**Fair Value of Fixed-Rate Notes**
+
+* The company reported that the fair value of its fixed-rate notes as of June 29, 2024 was $86,200.
+* As of September 30, 2023, the fair value of its fixed-rate notes was $90,800.
+
+Overall, the company's debt instruments have decreased in value over time, with a decrease in commercial paper and an increase in the carrying amount of fixed-rate notes. However, the fair value of the fixed-rate notes has also decreased slightly.
+
+Here is a comprehensive summary of the text:
+
+**Commercial Paper Repayments**
+
+The company has provided information on its commercial paper repayments for two periods: 9 months ended June 29, 2024 and July 1, 2023 to June 30, 2023.
+
+**Breakdown by Maturity Period**
+
+The company's commercial paper repayments are categorized into two maturity periods:
+
+* **90 days or less**: The company made net repayments of $-2985 million for the 9 months ended June 29, 2024.
+* **Greater than 90 days**: There were no repayments of commercial paper with maturities greater than 90 days for the 9 months ended June 29, 2024.
+
+**Comparison to Prior Period**
+
+For the same period last year (July 1, 2023 to June 30, 2023), the company made net repayments of $-5971 million. This represents a decrease in commercial paper repayments of $2986 million compared to the prior period.
+
+Overall, the data suggests that the company has reduced its commercial paper repayments over the past year, indicating a potential reduction in short-term debt obligations.
+
+Here is a comprehensive summary of the text:
+
+**Share Repurchases**
+
+During the 9 months ended June 29, 2024, the company repurchased a total of **387 million shares**. The total amount spent on these share repurchases was **$70 billion**.
+
+This information provides insight into the company's capital management strategy and its use of cash to return value to shareholders through share buybacks.
+
+Here is a comprehensive summary of the text:
+
+**Share-Based Compensation - Restricted Stock Unit Activity**
+
+The company has reported on its share-based compensation for restricted stock units (RSUs) as of June 29, 2024. The key metrics are summarized below:
+
+* **Beginning Balance**: As of January 1, 2024, the company had 180,247 RSUs outstanding.
+* **RSUs Granted**: During the nine months ended June 29, 2024, the company granted 78,276 new RSUs.
+* **RSUs Vested**: The company had 83,842 RSUs vest during the same period.
+* **RSUs Canceled**: A total of 8,258 RSUs were canceled.
+* **Ending Balance**: As of June 29, 2024, the company had 166,423 RSUs outstanding.
+
+**Weighted-Average Grant Date Fair Value Per RSU**
+
+The weighted-average grant date fair value per RSU is a measure of the average value of each RSU granted. The key metrics are summarized below:
+
+* **Beginning Balance**: As of January 1, 2024, the weighted-average grant date fair value per RSU was $135.91.
+* **RSUs Granted**: During the nine months ended June 29, 2024, the weighted-average grant date fair value per RSU for new grants was $172.26.
+* **RSUs Vested**: The weighted-average grant date fair value per RSU for vested RSUs was $126.47.
+* **RSUs Canceled**: The weighted-average grant date fair value per RSU for canceled RSUs was $137.85.
+* **Ending Balance**: As of June 29, 2024, the weighted-average grant date fair value per RSU was $157.66.
+
+**Aggregate Fair Value**
+
+The aggregate fair value of all outstanding RSUs as of June 29, 2024 is $35,052 million.
+
+Here is a comprehensive summary of the text:
+
+**Share-Based Compensation**
+
+The company has provided additional information on its share-based compensation arrangements, specifically related to Restricted Stock Units (RSUs).
+
+**Key Points:**
+
+1. **Fair Value of RSUs**: The fair value of RSUs as of their respective vesting dates was:
+	* $6.4 billion for the 3 months ended June 29, 2024
+	* $7 billion for the period from July 1, 2023 to June 29, 2024 (9 months)
+2. **Total Unrecognized Compensation Cost**: The total unrecognized compensation cost related to RSUs is:
+	* $21.9 billion as of June 29, 2024
+	* No amount was reported for the period from July 1, 2023 to June 29, 2024 (9 months)
+3. **Weighted-Average Recognition Period**: The weighted-average recognition period for the total unrecognized compensation cost related to RSUs is:
+	* Not specified for the 3 months ended June 29, 2024
+	* Not specified for the period from July 1, 2023 to June 29, 2024 (9 months)
+	* 2 years, 7 months, and 6 days as of June 29, 2024
+
+Overall, the company has reported significant fair value and unrecognized compensation costs related to RSUs, indicating a substantial investment in its employees through share-based compensation arrangements.
+
+Here is a comprehensive summary of the text:
+
+**Share-Based Compensation Summary**
+
+The company has reported its share-based compensation expense and related income tax benefit for two periods: 3 months ended June 29, 2024, and 9 months ended June 29, 2024. The same information is also provided for comparison purposes for the corresponding periods in 2023.
+
+**Key Figures**
+
+* **Share-Based Compensation Expense**: For the 3 months ended June 29, 2024, the company reported a share-based compensation expense of $2,869 million, compared to $2,617 million for the same period in 2023. For the 9 months ended June 29, 2024, the expense was $8,830 million, up from $8,208 million in 2023.
+* **Income Tax Benefit**: The income tax benefit related to share-based compensation expense was a negative $764 million for the 3 months ended June 29, 2024, and a negative $2,662 million for the 9 months ended June 29, 2024. In comparison, the corresponding periods in 2023 reported negative benefits of $993 million and $2,791 million, respectively.
+
+Overall, the company's share-based compensation expense has increased over the past year, while the related income tax benefit has also decreased.
+
+Here is a comprehensive summary of the text:
+
+**Segment Information and Geographic Data**
+
+The report provides segment information and geographic data for a company, broken down into various regions. The segments are: Americas, Europe, Greater China, Japan, Rest of Asia Pacific.
+
+**Key Highlights**
+
+* **Net Sales**: 
+	+ For the 3 months ended June 29, 2024, net sales were $85,777.
+	+ For the 9 months ended June 29, 2024, net sales were $296,105.
+* **Operating Income**: 
+	+ For the 3 months ended June 29, 2024, operating income was $25,352.
+	+ For the 9 months ended June 29, 2024, operating income was $93,625.
+
+**Segment Performance**
+
+* **Americas**: 
+	+ Net sales for the 3 months ended June 29, 2024 were $37,678.
+	+ Operating income for the 3 months ended June 29, 2024 was $15,209.
+	+ Net sales for the 9 months ended June 29, 2024 were $125,381.
+	+ Operating income for the 9 months ended June 29, 2024 was $50,640.
+* **Europe**: 
+	+ Net sales for the 3 months ended June 29, 2024 were $21,884.
+	+ Operating income for the 3 months ended June 29, 2024 was $9,170.
+	+ Net sales for the 9 months ended June 29, 2024 were $76,404.
+	+ Operating income for the 9 months ended June 29, 2024 was $31,872.
+* **Greater China**: 
+	+ Net sales for the 3 months ended June 29, 2024 were $14,728.
+	+ Operating income for the 3 months ended June 29, 2024 was $5,562.
+	+ Net sales for the 9 months ended June 29, 2024 were $51,919.
+	+ Operating income for the 9 months ended June 29, 2024 was $20,884.
+* **Japan**: 
+	+ Net sales for the 3 months ended June 29, 2024 were $5,097.
+	+ Operating income for the 3 months ended June 29, 2024 was $2,544.
+	+ Net sales for the 9 months ended June 29, 2024 were $19,126.
+	+ Operating income for the 9 months ended June 29, 2024 was $9,498.
+* **Rest of Asia Pacific**: 
+	+ Net sales for the 3 months ended June 29, 2024 were $6,390.
+	+ Operating income for the 3 months ended June 29, 2024 was $2,610.
+	+ Net sales for the 9 months ended June 29, 2024 were $23,275.
+	+ Operating income for the 9 months ended June 29, 2024 was $9,995.
+
+Overall, the company's net sales and operating income have increased over the past 3 and 9 months. The Americas segment has been a significant contributor to the company's revenue and profitability, followed by Europe and Greater China.
+
+Here is a comprehensive summary of the provided text:
+
+**Segment Information and Geographic Data**
+
+The report provides segment information and geographic data for a company, reconciling operating income from segments to the consolidated statements of operations. The data is presented in two formats: 3 months ended June 29, 2024, and 9 months ended June 29, 2024, with corresponding periods ending July 1, 2023.
+
+**Segment Reporting**
+
+The report includes three sections:
+
+1. **Reconciling Item for Operating Profit (Loss) from Segment to Consolidated**: This section presents the operating income from segments, which is reconciled to the consolidated operating income.
+	* For the 3 months ended June 29, 2024: $35,095
+	* For the 9 months ended June 29, 2024: $122,889
+2. **Segment Reporting, Reconciling Item for Operating Profit (Loss) from Segment to Consolidated**: This section presents the operating income from segments and segment reconciling items.
+	* No data is provided in this section.
+3. **Research and Development Expense**: This section presents research and development expenses, which are subtracted from operating income to reconcile it to consolidated operating income.
+	* For the 3 months ended June 29, 2024: $8,006
+	* For the 9 months ended June 29, 2024: $23,605
+
+**Corporate Non-Segment and Other Corporate Expenses**
+
+The report also includes two sections:
+
+1. **Corporate Non-Segment**: This section presents corporate non-segment expenses.
+	* No data is provided in this section.
+2. **Other Corporate Expenses, Net**: This section presents other corporate expenses, net of income.
+	* For the 3 months ended June 29, 2024: $1,737
+	* For the 9 months ended June 29, 2024: $5,659
